@@ -17,9 +17,7 @@ This is a computational biology demonstration project that performs protein sequ
 4. Visualization: Generated heatmap and phylogenetic tree visualizations.
 
 ## How to Run
-\`\`\`bash
 python protein_analysis.py
-\`\`\`
 
 ## Files
 - protein_analysis.py - Main analysis script
@@ -29,4 +27,4 @@ python protein_analysis.py
 - requirements.txt - Python dependencies
 
 ## Author
-[Your Name] - Undergraduate student at Hong Kong Baptist University.
+WU Tianlang
